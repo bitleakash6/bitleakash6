@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 👨‍💻 I'm a passionate for Problem Solving and MERN Stack👨‍💻 developer from India 😎.<br>1st 🥇 Institution Rank on GFG || 5 ⭐ Hackerrank Programmer || MERN Stack Developer || Problem Solving Enthusiast || 500+ Problem Solved on DSA 🧡.
-- 📔 Live [**MyResume**]()
+- 📔 Live [**MyResume**](https://drive.google.com/file/d/112xyFZQPZrstW-1d0n3MYU8YCHt5siTa/view?usp=sharing)
 - 🔥 [**My DSA and Developement Skills**]()
 - 👨‍💻 Check My! [**CodingProfile**]()
 - 🔭 I’m Currently Studing in **Final Year**
@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **Games,Mems**
 - 📫 How to reach me **akashbitle3@gmail.com**
-- 🔗 Connect Me on [**Linkedin**]()
+- 🔗 Connect Me on [**Linkedin**](https://linkedin.com/in/https://linkedin.com/akash-bitle)
 
 
 ## 🌐 Socials:
