@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi 👋, I'm Akash Bitle<br>I'm a passionate for Problem Solving and MERN Stack👨‍💻 developer from India 😎.<br>1st 🥇 Institution Rank on GFG || 5 ⭐ Hackerrank Programmer || MERN Stack Developer || Problem Solving Enthusiast || 500+ Problem Solved on DSA 🧡.  
+Hi 👋, I'm Akash Bitle<br>I'm a passionate for Problem Solving and MERN Stack👨‍💻 developer from India 😎.<br>1st 🥇 Institution Rank on GFG || 5 ⭐ Hackerrank Programmer || MERN Stack Developer || Problem Solving Enthusiast || 500+ Problem Solved on DSA 🧡.
+- 📔 Live [**MyResume**]()
+- 🔥 [**My DSA and Developement Skills**]()
+- 👨‍💻 Check My! [**CodingProfile**]()
+- 🔭 I’m Currently Studing in **Final Year**
+- 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+- ⚡ For Fun **Games,Mems**
+- 📫 How to reach me **akashbitle3@gmail.com**
+- 🔗 Connect Me on [**Linkedin**]()
 
 
 ## 🌐 Socials:
