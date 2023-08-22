@@ -22,4 +22,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=bitleakash6&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bitleakash6&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bitleakash6&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+<a href="https://github.com/bitleakash6/github-readme-stats"><img alt="Akash Bitle Github Stats" src="https://github-readme-stats.vercel.app/api?username=bitleakash6&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/bitleakash6/github-readme-stats"><img alt="Akash Bitle Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitleakash6&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
