@@ -3,8 +3,8 @@
 # 💫 About Me:
 - 👨‍💻 I'm a passionate for Problem Solving and MERN Stack👨‍💻 developer from India 😎.<br>1st 🥇 Institution Rank on GFG || 5 ⭐ Hackerrank Programmer || MERN Stack Developer || Problem Solving Enthusiast || 500+ Problem Solved on DSA 🧡.
 - 📔 Live [**MyResume**](https://drive.google.com/file/d/112xyFZQPZrstW-1d0n3MYU8YCHt5siTa/view?usp=sharing)
-- 🔥 [**My DSA and Developement Skills**]()
-- 👨‍💻 Check My! [**CodingProfile**]()
+- 🔥 [**My DSA and Developement Skills**](https://bitleakash6.github.io/MyCodingProfiles/)
+- 👨‍💻 Check My! [**CodingProfile**](https://bitleakash6.github.io/MyCodingProfiles/)
 - 🔭 I’m Currently Studing in **Final Year**
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
