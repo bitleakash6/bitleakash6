@@ -12,7 +12,7 @@
 - 📫 How to reach me **akashbitle3@gmail.com**
 - 🔗 Connect Me on [**Linkedin**](https://linkedin.com/in/https://linkedin.com/akash-bitle)
 
-## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
+## 📝 PROJECT's ZONE (Working on 25+ Persional Projects)
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
