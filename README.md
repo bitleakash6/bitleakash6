@@ -30,7 +30,7 @@
 | 🌐 GitHub Profile Finder [**🔗**]() | 🌐 Check Weather App [**🔗**]() | 
 | 🌐 CORESubjectsWithME [**🔗**]() | 🌐 CPU SCHEDULING ALGORITHM VISUALISER [**🔗**]() | 
 | 🌐 MeraCodeEditor [**🔗**]() | 🌐 Cardiac Care With Virtual Cardiologist (CCVC) [**🔗**]() |  
-| 🌐 75DaysHardPlacementChallenge [**🔗**]() | 🌐 CloudConduction Payroll 💰 [**🔗**]()
+| 🌐 75DaysHardPlacementChallenge [**🔗**]() | 
 
 
 ## 🌐 Socials:
