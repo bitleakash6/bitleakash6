@@ -24,13 +24,11 @@
 | 🌐 Digital NoteBook [**📂**](https://github.com/bitleakash6/DigitalNoteBook) | 🌐 Command Line Youtube Using CLI  [**📂**](https://github.com/bitleakash6/YouTube-Using-Command-Line-Interface) |
 | 🌐 ToDo List [**🔗**](https://daytodayplanner.netlify.app/) | 🌐 Quiz Web App [**🔗**](https://bitleakash6.github.io/MyQuizApp/) | 
 | 🌐 MyCodingProfiles [**🔗**](https://bitleakash6.github.io/MyCodingProfiles/) | 🌐 To-Do App [**🔗**](https://bitleakash6.github.io/To-Do-App/) | 
-| 🌐 Portfolio [**🔗**]() | 🌐 Modern DSA Profile Sharing [**🔗**]() |
-| 🌐 Tick-Tack-Too Game using Dev [**🔗**]() | 🌐 RazorpayClone WebSite [**🔗**]() | 
-| 🌐 Discord Clone [**🔗**]() | 🌐 DSAwithPrinceSingh [**🔗**]() | 
-| 🌐 GitHub Profile Finder [**🔗**]() | 🌐 Check Weather App [**🔗**]() | 
-| 🌐 CORESubjectsWithME [**🔗**]() | 🌐 CPU SCHEDULING ALGORITHM VISUALISER [**🔗**]() | 
-| 🌐 MeraCodeEditor [**🔗**]() | 🌐 Cardiac Care With Virtual Cardiologist (CCVC) [**🔗**]() |  
-| 🌐 75DaysHardPlacementChallenge [**🔗**]() | 
+| 🌐 Portfolio [**🔗**]() | 🌐 Password Generator [**🔗**](https://bitleakash6.github.io/Password_GeneratorApp/) |
+| 🌐 Algo-Fiest [**🔗**](https://bitleakash6.github.io/algo-fiesta.github.io/) | 🌐 Count Down WebSite [**🔗**](https://bitleakash6.github.io/CountDownWebpage/) | 
+| 🌐 Catering Website [**🔗**](https://bitleakash6.github.io/Catering_Webpage/) | 🌐 Online-Tutor [**🔗**](https://bitleakash6.github.io/Onlinetutor/) | 
+| 🌐 GitHub Profile Finder [**🔗**](https://bitleakash6.github.io/GitHub_Profiles_App/) | 🌐 Gym Webpage [**🔗**](https://bitleakash6.github.io/GymWebPage/) | 
+| 🌐 EGrocery [**🔗**](https://bitleakash6.github.io/E-Grocery/) | 🌐 75DaysHardPlacementChallenge [**🔗**](https://github.com/bitleakash6/75DaysHardPlacementChallenge) | 
 
 
 ## 🌐 Socials:
