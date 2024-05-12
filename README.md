@@ -12,6 +12,26 @@
 - 📫 How to reach me **akashbitle3@gmail.com**
 - 🔗 Connect Me on [**Linkedin**](https://linkedin.com/in/https://linkedin.com/akash-bitle)
 
+## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
+
+| Project Row I                        | Project Row II      |
+|------------------------------------|----------------------------------------|
+| 🌐  MyCodingProfiles [**🔗**]() | 🌐 Shorting Algorithm Website [**🔗**]() | 
+| 🌐  MYWebResume [**🔗**]() | 🌐 Animated My DSA Profiles Circle [**🔗**]() | 
+| 🌐 ADVANCED-BINARY-CALCULATOR [**🔗**]() | 🌐 ChessBoard [**🔗**]() | 
+| 🌐 MY-AI-ASSISTANT [**🔗**]() | 🌐 My Resume Clone [**🔗**]() | 
+| 🌐 Sorting-Algorithms-With-GUI [**🔗**]() | 🌐 MyCertificatesGallary [**🔗**]() | 
+| 🌐 Get-System-Information [**🔗**]() | 🌐 My DSA Journey WebSite  [**🔗**]() |
+| 🌐 Increment Decrement Calculator [**🔗**]() | 🌐 Share Modal [**🔗**]() | 
+| 🌐 ToDo-List-GUI-Python [**🔗**]() | 🌐 Tick-Tak-Too Game [**🔗**]() | 
+| 🌐 Portfolio [**🔗**]() | 🌐 Modern DSA Profile Sharing [**🔗**]() |
+| 🌐 Tick-Tack-Too Game using Dev [**🔗**]() | 🌐 RazorpayClone WebSite [**🔗**]() | 
+| 🌐 Discord Clone [**🔗**]() | 🌐 DSAwithPrinceSingh [**🔗**]() | 
+| 🌐 GitHub Profile Finder [**🔗**]() | 🌐 Check Weather App [**🔗**]() | 
+| 🌐 CORESubjectsWithME [**🔗**]() | 🌐 CPU SCHEDULING ALGORITHM VISUALISER [**🔗**]() | 
+| 🌐 MeraCodeEditor [**🔗**]() | 🌐 Cardiac Care With Virtual Cardiologist (CCVC) [**🔗**]() |  
+| 🌐 75DaysHardPlacementChallenge [**🔗**]() | 🌐 CloudConduction Payroll 💰 [**🔗**]()
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/akash-bitle) 
