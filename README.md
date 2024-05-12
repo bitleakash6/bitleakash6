@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm <b>Akash Bitle</b></h1>
 
 # 💫 About Me:
-- 👨‍💻 I'm a passionate for Problem Solving and Full Stack👨‍💻 developer from India 😎.<br>1st 🥇 Institution Rank on GFG || 5 ⭐ Hackerrank Programmer || Full Stack Developer || Problem Solving Enthusiast || 500+ Problem Solved on DSA 🧡.
-- 📔 Live [**MyResume**](https://drive.google.com/file/d/1KjAuH9TxE9VQynPFzGjNi5SCa7rpb3m-/view?usp=drivesdk)
-- 🔥 [**My DSA and Developement Skills**](https://bitleakash6.github.io/MyCodingProfiles/)
+- 👨‍💻 I'm a passionate for Problem Solving and Full Stack👨‍💻 developer from India 😎.<br>1st 🥇 Institution Rank on GFG || 5 ⭐ Hackerrank Programmer || Full Stack Developer || Problem Solving Enthusiast || 1000+ Problem Solved on DSA 🧡.
+- 📔 Live [**MyResume**](https://drive.google.com/file/d/1knysyrsUOQuov7YQlbTrqciLvG5znFDN/view?usp=sharing)
+- 🔥 [**My DSA and Developement Skills**](https://linktr.ee/akash_bitle)
 - 👨‍💻 Check My! [**CodingProfile**](https://bitleakash6.github.io/MyCodingProfiles/)
 - 🔭 I’m Currently Studing in **Final Year**
 - 📘 I’m Currently learning ****full Stack Development****
