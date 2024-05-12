@@ -16,14 +16,14 @@
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
-| 🌐  Vote Wave India (Voting Web App) [**🔗**](https://votewaveindia-webapplication.onrender.com/) [**:file_folder:**](https://github.com/bitleakash6/Voting-WebApplication) | 🌐 Shorting Algorithm Website [**🔗**](https://bitleakash6.github.io/Sorting-Visualizer-Web-Application/) | 
-| 🌐 MYWebResume [**🔗**]()  | 🌐 Netflix Clone [**🔗**](https://cineplexify.netlify.app/) | 
-| 🌐 Hotel Management Web App [**🔗**](https://hotels-b4j6.onrender.com/) [**:file_folder:**](https://github.com/bitleakash6/Hotels-web-Application-nodejs-) | 🌐 ChessBoard [**🔗**]() | 
-| 🌐 MYWebResume [**🔗**]() | 🌐 My Resume Clone [**🔗**]() | 
-| 🌐 Sorting-Algorithms-With-GUI [**🔗**]() | 🌐 MyCertificatesGallary [**🔗**]() | 
-| 🌐 Get-System-Information [**🔗**]() | 🌐 My DSA Journey WebSite  [**🔗**]() |
-| 🌐 Increment Decrement Calculator [**🔗**]() | 🌐 Share Modal [**🔗**]() | 
-| 🌐 ToDo-List-GUI-Python [**🔗**]() | 🌐 Tick-Tak-Too Game [**🔗**]() | 
+| 🌐  Vote Wave India (Voting Web App) [**🔗**](https://votewaveindia-webapplication.onrender.com/) [**:file_folder:**](https://github.com/bitleakash6/Voting-WebApplication) | 🌐 Sorting-Algorithms-With-GUI [**🔗**](https://bitleakash6.github.io/Sorting-Visualizer-Web-Application/) | 
+| 🌐 Twitter-X UI [**🔗**](https://akash-x.netlify.app/)  | 🌐 Netflix Clone [**🔗**](https://cineplexify.netlify.app/) | 
+| 🌐 Hotel Management Web App [**🔗**](https://hotels-b4j6.onrender.com/) [**:file_folder:**](https://github.com/bitleakash6/Hotels-web-Application-nodejs-) | 🌐 MyCertificatesGallary [**🔗**](https://bitleakash6.github.io/MyAllCertificates/) | 
+| 🌐 MYWebResume [**🔗**](https://bitleakash6.github.io/ResumeUsingHTML/) | 🌐 Extracting Data using API's [**🔗**]() [**📂**](https://github.com/bitleakash6/FetcchingDataUsingAPIs) | 
+| 🌐 Ecomerce Mini Web App [**🔗**](https://miniecomercereactjs.netlify.app/) | 🌐 iTask [**🔗**](https://taskai1.netlify.app/) | 
+| 🌐 Digital NoteBook [**📂**](https://github.com/bitleakash6/DigitalNoteBook) | 🌐 Command Line Youtube Using CLI  [**📂**](https://github.com/bitleakash6/YouTube-Using-Command-Line-Interface) |
+| 🌐 ToDo List [**🔗**](https://daytodayplanner.netlify.app/) | 🌐 Quiz Web App [**🔗**](https://bitleakash6.github.io/MyQuizApp/) | 
+| 🌐 MyCodingProfiles [**🔗**](https://bitleakash6.github.io/MyCodingProfiles/) | 🌐 Tick-Tak-Too Game [**🔗**]() | 
 | 🌐 Portfolio [**🔗**]() | 🌐 Modern DSA Profile Sharing [**🔗**]() |
 | 🌐 Tick-Tack-Too Game using Dev [**🔗**]() | 🌐 RazorpayClone WebSite [**🔗**]() | 
 | 🌐 Discord Clone [**🔗**]() | 🌐 DSAwithPrinceSingh [**🔗**]() | 
