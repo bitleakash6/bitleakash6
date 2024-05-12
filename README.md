@@ -16,10 +16,10 @@
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
-| 🌐  Vote Wave India (Voting Web App) [**🔗**](https://votewaveindia-webapplication.onrender.com/) [**:file_folder:**](https://github.com/bitleakash6/Voting-WebApplication) | 🌐 Shorting Algorithm Website [**🔗**]() | 
-| 🌐  MYWebResume [**🔗**]() | 🌐 Animated My DSA Profiles Circle [**🔗**]() | 
-| 🌐 ADVANCED-BINARY-CALCULATOR [**🔗**]() | 🌐 ChessBoard [**🔗**]() | 
-| 🌐 MY-AI-ASSISTANT [**🔗**]() | 🌐 My Resume Clone [**🔗**]() | 
+| 🌐  Vote Wave India (Voting Web App) [**🔗**](https://votewaveindia-webapplication.onrender.com/) [**:file_folder:**](https://github.com/bitleakash6/Voting-WebApplication) | 🌐 Shorting Algorithm Website [**🔗**](https://bitleakash6.github.io/Sorting-Visualizer-Web-Application/) | 
+| 🌐 MYWebResume [**🔗**]()  | 🌐 Netflix Clone [**🔗**](https://cineplexify.netlify.app/) | 
+| 🌐 Hotel Management Web App [**🔗**](https://hotels-b4j6.onrender.com/) [**:file_folder:**](https://github.com/bitleakash6/Hotels-web-Application-nodejs-) | 🌐 ChessBoard [**🔗**]() | 
+| 🌐 MYWebResume [**🔗**]() | 🌐 My Resume Clone [**🔗**]() | 
 | 🌐 Sorting-Algorithms-With-GUI [**🔗**]() | 🌐 MyCertificatesGallary [**🔗**]() | 
 | 🌐 Get-System-Information [**🔗**]() | 🌐 My DSA Journey WebSite  [**🔗**]() |
 | 🌐 Increment Decrement Calculator [**🔗**]() | 🌐 Share Modal [**🔗**]() | 
