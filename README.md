@@ -29,6 +29,8 @@
 | 🌐 Catering Website [**🔗**](https://bitleakash6.github.io/Catering_Webpage/) | 🌐 Online-Tutor [**🔗**](https://bitleakash6.github.io/Onlinetutor/) | 
 | 🌐 GitHub Profile Finder [**🔗**](https://bitleakash6.github.io/GitHub_Profiles_App/) | 🌐 Gym Webpage [**🔗**](https://bitleakash6.github.io/GymWebPage/) | 
 | 🌐 EGrocery [**🔗**](https://bitleakash6.github.io/E-Grocery/) | 🌐 75DaysHardPlacementChallenge [**🔗**](https://github.com/bitleakash6/75DaysHardPlacementChallenge) | 
+| 🌐 Qaulity Log Control Software [**🔗**](https://logcontrolsoftware.netlify.app/) [**📂**] (https://github.com/bitleakash6/Qaulity_Log_Control_MERN_Project)| 🌐  | 
+
 
 
 ## 🌐 Socials:
