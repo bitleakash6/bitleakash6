@@ -1,4 +1,4 @@
-<img src="">                     
+<img src="https://github.com/bitleakash6/bitleakash6/blob/main/Linkedin%20banner.png">                     
 <h1 align="center">Hi 👋, I'm <b>Akash Bitle</b></h1>
 
 # 💫 About Me:
